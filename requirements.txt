@@ -1,0 +1,8 @@
+pandas==2.1.4
+TA-Lib==0.4.28
+numpy==1.26.2
+python-dotenv==1.0.0
+logging==0.4.9.6
+slackclient==2.9.4
+ccxt==4.2.3
+pandas-ta==0.3.14b
